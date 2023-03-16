@@ -1,6 +1,6 @@
 # Alzheimers-predictions-using-Patients-data
 
-## Introduction
+## Overview 
 Alzheimer's disease (AD) is a progressive and incurable neurodegenerative disorder that affects millions of people worldwide. It is the most common cause of dementia, accounting for approximately 60-80% of all cases. The disease is characterized by the gradual loss of cognitive function, memory, and behavioral changes, leading to functional impairment and eventually, complete dependence on caregivers. Early detection and intervention are critical for improving treatment outcomes and quality of life for patients and their families. Unfortunately, current diagnostic methods rely on clinical symptoms and neuroimaging, which may not detect the disease until significant damage has already occurred.
 
 The Alzheimer's Disease Neuroimaging Initiative (ADNI) is a large-scale, longitudinal study that collects clinical, cognitive, imaging, and genetic data from participants with AD, mild cognitive impairment (MCI), and healthy controls. This dataset provides a valuable resource for developing machine learning models to predict the onset of AD based on demographic, clinical, and genetic information.
